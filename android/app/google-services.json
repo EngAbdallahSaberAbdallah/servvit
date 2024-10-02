@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750333166775",
+    "project_id": "servvit-394f6",
+    "storage_bucket": "servvit-394f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750333166775:android:3e30c617e70ff84f35b932",
+        "android_client_info": {
+          "package_name": "com.servvit.egypt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBC_-eyyECTo3xJiWCJnuQ5j0PTyN5dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
